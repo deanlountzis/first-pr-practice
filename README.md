@@ -16,3 +16,7 @@ merged into the main branch.
 4. Open a pull request and merge it in
 
 That's it — once your PR is merged, you've shipped your first contribution! 🎉
+
+## Practice Log
+
+- 2026-06-15: Completed another full branch → PR → merge cycle.
